@@ -1,2 +1,7 @@
 # OCaml_card_game
-A little card game in OCaml
+
+A little card game in OCaml.
+
+## Auteur
+
+Maël PAUL
