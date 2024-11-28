@@ -1,4 +1,4 @@
-# OCaml_card_game
+# OCaml card game
 
 A little card game in OCaml.
 
